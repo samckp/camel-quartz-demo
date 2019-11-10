@@ -1,14 +1,7 @@
- 
 # camel-quartz-demo
 Apache Camel with Quartz demo.
 1. execute route in every 1 second and Repeat 10 times.
 2. every 1 Minute, between 12-23PM, MON-FRI.
-=======
-# camel-quartz-demo ##
-apache camel with Quartz demo
-1. execute route in every 1 second and Repeat 10 times
-2. every 1 Minute, between 12-23PM, MON-FRI
->>>>>>> 6713358ac0e86f936ba9165f31a340e7cc15a3c4
 
 Field Name	Mandatory	Allowed Values	Allowed Special Characters </br>
 Seconds	    YES	      0-59	          , - * /</br>
